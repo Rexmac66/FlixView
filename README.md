@@ -11,4 +11,4 @@ The present OS X Swift Class is related to the medical project [RadioLogic](http
 Additional Informations are available in the [project Wiki](https://github.com/mbarnig/WkWebView/wiki).
 
 
-Initial commit converted to Swift 4
+Initial commit converted to Swift 5
